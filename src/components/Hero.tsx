@@ -107,7 +107,7 @@ export default function Hero() {
         >
           <div className="relative bg-white rounded-3xl p-5 sm:p-6 md:p-8 border-2 border-[#E5E7EB] border-b-8 shadow-xl">
             <div className="flex items-center gap-3 sm:gap-4 mb-5 sm:mb-6 pb-5 sm:pb-6 border-b-2 border-[#F1F5F9]">
-              <div className="relative w-20 sm:w-24 h-20 sm:h-24 sm:sm:w-28 sm:sm:h-28 rounded-2xl bg-gradient-to-br from-brand-cyan/20 to-brand-magenta/20 p-1 border-2 border-brand-cyan shadow-md flex-shrink-0">
+              <div className="relative w-20 sm:w-24 h-20 sm:h-24 lg:w-28 lg:h-28 rounded-2xl bg-gradient-to-br from-brand-cyan/20 to-brand-magenta/20 p-1 border-2 border-brand-cyan shadow-md flex-shrink-0">
                 <img
                   alt="Maskot Robot Jihn-E"
                   className="w-full h-full object-cover rounded-xl"
