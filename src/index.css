@@ -20,6 +20,7 @@
   --radius-full: 9999px;
 
   --animate-marquee: marquee 20s linear infinite;
+  --animate-marquee-14: marquee 14s linear infinite;
   @keyframes marquee {
     from { transform: translateX(0); }
     to { transform: translateX(-50%); }
